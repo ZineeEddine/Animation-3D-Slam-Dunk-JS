@@ -7,7 +7,7 @@ L'idée était d'implémenter une petite animation en 3D, fait avec Three.js
 
 ## Installation
 
- - git clone https://github.com/ZineeEddine/-Animation-3D-Slam-Dunk-JS.git
+ - git clone https://github.com/ZineeEddine/Animation-3D-Slam-Dunk-JS.git
  - cd Animation_3D_Slam_Dunk_JS
  - cd Joli-Truc-TP5
  - python3 -m http.server 8000
